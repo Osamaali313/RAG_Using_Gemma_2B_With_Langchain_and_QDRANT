@@ -1,0 +1,1 @@
+# RAG_Using_Gemma_2B_With_Langchain_and_QDRANT
